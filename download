@@ -1,0 +1,10 @@
+.gradle/
+build/
+run/
+mdk/
+mdk.zip
+gradle/
+gradlew
+gradlew.bat
+.idea/
+*.iml
